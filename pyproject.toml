@@ -1,0 +1,13 @@
+[project]
+name = "automation-pipeline"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "mlxtend>=0.25.0",
+    "numpy>=2.4.6",
+    "pandas>=3.0.3",
+    "scikit-learn>=1.9.0",
+    "scipy>=1.17.1",
+]
